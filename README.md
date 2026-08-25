@@ -7,6 +7,7 @@
 ## 目录
 - [Awesome AI GPTs](#awesome-ai-gpts)
   - [目录](#目录)
+  - [2026 更新：GPTs 之后，去哪里找"可复用的 AI 能力"](#2026-更新gpts-之后去哪里找可复用的-ai-能力)
   - [Hot GPTs](#hot-gpts)
   - [💻 GPTs 收录数据库](#-gpts-收录数据库)
   - [GPTs 搜索](#gpts-搜索)
@@ -28,6 +29,18 @@
     - [📜 协议](#-协议)
   - [致谢](#致谢)
 
+
+## 2026 更新：GPTs 之后，去哪里找"可复用的 AI 能力"
+
+> 本仓库主要记录 2023–2024 年 OpenAI GPTs 生态的资源与玩法，其中的 GPTs 链接大多仍可在 ChatGPT 中打开。2025 年起，"把一段提示词 + 工具打包成可复用能力"这件事已经演化为几条更开放、跨平台的路线，推荐关注：
+
+| 方向 | 说明 | 资源 |
+|------|------|------|
+| **Agent Skills（开放标准）** | `SKILL.md` 目录 = 说明 + 脚本 + 资源，按需加载；Claude、ChatGPT & Codex、Gemini CLI、Cursor、OpenCode、DeepSeek Harness 等 40+ 产品通用，是 GPTs 思路的跨平台继任者 | [agentskills.io](https://agentskills.io/)、[Claude Skills 指南](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/Claude_Skills.md)、[awesome-claude-skills-zh](https://github.com/yzfly/awesome-claude-skills-zh) |
+| **MCP（工具与数据连接）** | GPTs Actions 的开放版：统一协议接入外部 API / 数据，ChatGPT、Claude、各类 IDE 均支持 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) |
+| **ChatGPT Apps / Codex** | OpenAI 自家的延续：基于 MCP 的 Apps SDK、Codex 编程智能体与 Skills 支持 | [Codex Skills 文档](https://developers.openai.com/codex/skills/) |
+| **DeepSeek Harness（dsh）与 Agent 框架** | 开源 Agent 框架"一切皆插件"，技能 / 插件生态两周内涌现数百个仓库 | [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)、[awesome-dsh-skills](https://github.com/yzfly/awesome-dsh-skills) |
+| **结构化提示词** | GPTs 的核心仍是好的提示词，LangGPT 模板在各家模型上通用 | [LangGPT](https://github.com/langgptai/LangGPT) |
 
 ## Hot GPTs 
 
